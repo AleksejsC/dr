@@ -4,19 +4,19 @@ According to Susan Snedaker in her book **"Business Continuity and Disaster Reco
    - **Assess Business Needs**: Begin by thoroughly understanding the business's critical functions, processes, and dependencies. This involves engaging with various departments to identify what they consider critical to operations.
    - **Identify IT Dependencies**: Map out which IT systems, applications, and data are crucial for supporting these critical business functions. Understanding these dependencies helps prioritize what needs protection and recovery.
 
-### 2. **Conduct Risk Assessment and Business Impact Analysis (BIA)**
+[### 2. **Conduct Risk Assessment and Business Impact Analysis (BIA)**](BIA.md)
    - **Risk Assessment**: Identify potential risks and threats that could disrupt IT services, such as natural disasters, cyberattacks, hardware failures, or human error. Evaluate the likelihood and impact of each risk.
    - **Business Impact Analysis (BIA)**: Determine the potential impact of each identified risk on business operations. The BIA helps in understanding the financial, operational, and reputational consequences of disruptions, and guides in setting recovery priorities.
 
-### 3. **Define Recovery Objectives**
+[### 3. **Define Recovery Objectives**](RTO-RPO.md)
    - **Recovery Time Objective (RTO)**: Define the maximum acceptable amount of time that a system, application, or process can be down before it causes unacceptable damage to the business.
    - **Recovery Point Objective (RPO)**: Establish the maximum amount of data loss acceptable, measured in time (e.g., data lost within the last 4 hours). This helps in determining the frequency of backups and data replication strategies.
 
-### 4. **Develop Recovery Strategies**
+[### 4. **Develop Recovery Strategies**](Recovery%20Strategies.md)
    - **Strategize Based on Impact and Objectives**: Based on the RTO and RPO, develop strategies to recover IT systems and data. This might include backup solutions, data replication, use of cloud services, or implementing high-availability systems.
    - **Resource Identification**: Identify the resources (technology, personnel, and budget) needed to implement the recovery strategies. Determine where these resources will come from, whether in-house or outsourced.
 
-### 5. **Create the Disaster Recovery Plan**
+[### 5. **Create the Disaster Recovery Plan**](DR%20plan.md)
    - **Document the Plan**: Develop a detailed DR plan that includes all necessary steps for responding to an IT disruption. This should cover everything from the initial response, communication protocols, recovery actions, and the roles and responsibilities of team members.
    - **Include DR Procedures**: Outline specific procedures for recovering each critical system, application, and data set. This should include step-by-step instructions for IT staff to follow during a disaster.
 
