@@ -20,24 +20,24 @@ According to Susan Snedaker in her book **"Business Continuity and Disaster Reco
    - **Document the Plan**: Develop a detailed DR plan that includes all necessary steps for responding to an IT disruption. This should cover everything from the initial response, communication protocols, recovery actions, and the roles and responsibilities of team members.
    - **Include DR Procedures**: Outline specific procedures for recovering each critical system, application, and data set. This should include step-by-step instructions for IT staff to follow during a disaster.
 
-### 6. **Establish Communication Protocols**
+[### 6. **Establish Communication Protocols**](communication%20protocols.md)
    - **Crisis Communication Plan**: Develop a plan for internal and external communication during a disaster. Ensure there’s a clear chain of command, and everyone knows whom to contact and how.
    - **Stakeholder Communication**: Include strategies for keeping stakeholders, such as customers, suppliers, and partners, informed during and after an incident.
 
-### 7. **Implement Training and Awareness Programs**
+[### 7. **Implement Training and Awareness Programs**](training.md)
    - **Train Staff**: Conduct regular training sessions for IT staff and other relevant employees to ensure they are familiar with their roles in the DR plan.
    - **Increase Awareness**: Educate the broader organization about the importance of DR planning and their role in the process, ensuring a culture of preparedness.
 
-### 8. **Test the DR Plan**
+[### 8. **Test the DR Plan**](testing.md)
    - **Regular Testing**: Perform regular testing of the DR plan to ensure it is effective and that staff are comfortable with their responsibilities. Testing can include simulations, tabletop exercises, or full-scale drills.
    - **Identify Gaps and Update**: Use the results of tests to identify gaps or weaknesses in the plan. Make necessary updates and improvements to address these issues.
 
-### 9. **Review and Maintain the Plan**
+[### 9. **Review and Maintain the Plan**](review.md)
    - **Regular Reviews**: Continuously review and update the DR plan to reflect changes in the business environment, technology landscape, or new risks that emerge.
    - **Version Control**: Ensure that all copies of the DR plan are up to date and that all relevant parties have access to the latest version.
 
-### 10. **Integrate with Business Continuity Planning (BCP)**
+[### 10. **Integrate with Business Continuity Planning (BCP)**](BCP.md)
    - **Alignment with BCP**: Ensure that the DR plan is fully integrated with the broader Business Continuity Plan (BCP) so that IT recovery efforts are aligned with the overall recovery strategy for the organization.
 
-### Summary
+[### Summary](summary.md)
 Snedaker emphasizes that effective DR planning is a continuous process, requiring regular updates, testing, and staff training to ensure that the organization can respond quickly and effectively to IT disruptions. The steps above reflect a proactive and methodical approach, ensuring that when a disaster occurs, the organization is prepared to restore operations with minimal downtime and data loss.
